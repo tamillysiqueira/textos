@@ -1,1 +1,3 @@
-# textos-2
+# textos
+
+Textos para diciplina de pensamento computacional.
